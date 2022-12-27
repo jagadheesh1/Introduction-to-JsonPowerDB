@@ -148,3 +148,29 @@
 	 </script>
 	 </body>
 	 </html>
+
+
+
+
+
+
+
+
+
+About JsonPowerDB:
+
+JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+
+
+Benefits of using JsonPowerDB:
+
+	Nimble, Simple to use, In Memory, Realtime
+	Simplest way to retrieve data in a JSON format.
+	Schema-free, easy to maintain
+	Server side Native NoSQL for best performance
+	Webservices API for low development cost
+	It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX
+	It has multiple security layers
+        
+ Release History 
+ First Release is published on 27/12/2022
